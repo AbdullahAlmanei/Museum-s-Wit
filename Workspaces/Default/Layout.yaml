@@ -1,0 +1,59 @@
+dock:
+  isLocked: false
+  main:
+    items:
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.SceneHierarchyEditor
+                Uuid: 6778142c-0629-4c2a-afc3-92a65ce29e1a
+              - persistentName: Snap.Plugin.Gui.SpectaclesMonitorPanel
+                Uuid: 5ead45cc-c15e-4ae4-99dc-762ba717787a
+              - persistentName: snap.plugin.gui.typescript_status_panel
+                Uuid: 272704bc-f266-4adf-ae7d-56d03c9677fa
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.AssetBrowser
+                Uuid: cd11ace2-8507-4965-a068-d85c26031a6b
+            type: section
+            current: 0
+        sizes:
+          - 385
+          - 370
+        type: splitter
+        orientation: vertical
+      - items:
+          - items:
+              - persistentName: Snap.Plugin.Gui.SceneEditor
+                Uuid: a14d85d7-9a15-42a6-913e-3f24dea267c2
+              - persistentName: Com.Snap.LensBasedEditors
+                Uuid: 8a3a27b0-b621-4856-b81a-b8fdf3177f7b
+            type: section
+            current: 0
+          - items:
+              - persistentName: Snap.Plugin.Gui.ScriptEditorPanel
+                Uuid: 9433cec2-1dea-425f-a00f-61e7452ee801
+              - persistentName: Snap.Plugin.Gui.LoggerPanel
+                Uuid: 81de965d-0c94-4d28-82cf-901740003a1f
+              - persistentName: Snap.Plugin.Gui.InspectorPanel
+                Uuid: 3c45760e-0208-4108-9d60-a7ed4d2c45dc
+            type: section
+            current: 0
+        sizes:
+          - 330
+          - 425
+        type: splitter
+        orientation: vertical
+      - items:
+          - persistentName: Snap.Plugin.Gui.PreviewPanel
+            Uuid: 52fc2a95-41a3-427b-a138-1e00eb1c405e
+          - persistentName: Snap.Plugin.AssistantAI.Panel
+            Uuid: df91b2cf-37e1-401c-83fc-3d9f83343e71
+        type: section
+        current: 0
+    sizes:
+      - 375
+      - 555
+      - 496
+    type: splitter
+    orientation: horizontal

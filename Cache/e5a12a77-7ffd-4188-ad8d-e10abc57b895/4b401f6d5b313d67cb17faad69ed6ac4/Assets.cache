@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2271e0bd-f69a-452e-b4ab-6b9cd743a618: e5a12a77-7ffd-4188-ad8d-e10abc57b895/4b401f6d5b313d67cb17faad69ed6ac4/Data/cloud_face_happy.pvr
+  Assets:
+    - !<FileTexture/2271e0bd-f69a-452e-b4ab-6b9cd743a618>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 4b401f6d5b313d67cb17faad69ed6ac4
+  FileHash: f4720899b1148147d2a8e3934c69e669
+  NativePackageItems:
+    []

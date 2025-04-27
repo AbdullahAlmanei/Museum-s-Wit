@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    858ed93d-6c72-4cee-bc17-54045ccf1572: f80a98c2-28e3-49fe-8c52-97761fa6d9d6/44a9cab9227c5d97c8ec301eb4c6969c/Data/Normal.png
+  Assets:
+    - !<FileTexture/858ed93d-6c72-4cee-bc17-54045ccf1572>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 44a9cab9227c5d97c8ec301eb4c6969c
+  FileHash: 0e2a8f3564238e5b57e61a975c12e8cf
+  NativePackageItems:
+    []

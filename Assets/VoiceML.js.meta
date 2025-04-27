@@ -1,0 +1,43 @@
+- !<AssetImportMetadata/f77f7ac1-dd7b-41a4-b614-71c62c064c8e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 1980633d-97ed-4238-9b7f-d5e591db2c04
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 1980633d-97ed-4238-9b7f-d5e591db2c04
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7c76fb7a-1271-457c-8d63-bada36ad80b0
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7c76fb7a-1271-457c-8d63-bada36ad80b0>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9d567ae4-6ece-4516-8208-a5c0d14385a4
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    buttonMesh: false
+    dialogueCtrl: false
+    idleMaterial: false
+    loadingMaterial: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - buttonMesh: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      idleMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      loadingMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      dialogueCtrl: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

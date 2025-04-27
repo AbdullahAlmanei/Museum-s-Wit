@@ -1,0 +1,52 @@
+- !<AssetImportMetadata/6891f8b9-6ea6-4df8-8fdf-f18073ed3ab1>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 029ba39e-f41d-4e95-b102-40dec6dcc612
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 029ba39e-f41d-4e95-b102-40dec6dcc612
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 4281bde5-b68d-475e-a26f-dd9eb1be1dfb
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/4281bde5-b68d-475e-a26f-dd9eb1be1dfb>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 16033549-0b81-46ad-b390-5f59a0fe426f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    baseHeight: false
+    charsPerLine: false
+    closeBtn: false
+    containerFrame: false
+    dialogueText: false
+    lineHeight: false
+    padding: false
+    panel: false
+  ScriptTypesHidden:
+    {}
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - dialogueText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      closeBtn: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      api: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      panel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      containerFrame: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      padding: !<float> 4.000000
+      charsPerLine: 35
+      lineHeight: !<float> 6.000000
+      baseHeight: !<float> 30.000000
+  ScriptTypes:
+    -
+      {}

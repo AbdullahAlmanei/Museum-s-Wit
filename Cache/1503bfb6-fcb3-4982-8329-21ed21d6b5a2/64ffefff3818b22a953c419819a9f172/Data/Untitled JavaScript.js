@@ -1,0 +1,1 @@
+script.getSceneObject().enabled = false;

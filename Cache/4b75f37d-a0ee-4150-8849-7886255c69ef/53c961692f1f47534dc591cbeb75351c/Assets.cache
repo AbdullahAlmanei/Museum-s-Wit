@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f70885e7-f681-4f33-8c06-d023d91de17a: 4b75f37d-a0ee-4150-8849-7886255c69ef/53c961692f1f47534dc591cbeb75351c/Data/InteriorExample.jpg
+  Assets:
+    - !<FileTexture/f70885e7-f681-4f33-8c06-d023d91de17a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1750
+        Height: 1386
+  SourceHash: 53c961692f1f47534dc591cbeb75351c
+  FileHash: 37e5fc34895d6f401617db4441347350
+  NativePackageItems:
+    []

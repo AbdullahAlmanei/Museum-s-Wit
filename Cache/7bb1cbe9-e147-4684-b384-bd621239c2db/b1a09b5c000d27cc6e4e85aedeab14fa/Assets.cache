@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a7cbc70b-d4a6-4b4c-9b82-4bad8dbf7b59: 7bb1cbe9-e147-4684-b384-bd621239c2db/b1a09b5c000d27cc6e4e85aedeab14fa/Data/Thought Bubble.png
+  Assets:
+    - !<FileTexture/a7cbc70b-d4a6-4b4c-9b82-4bad8dbf7b59>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 352
+  SourceHash: b1a09b5c000d27cc6e4e85aedeab14fa
+  FileHash: ff4a0c75b0ee21ad7ca7ee92b806dd30
+  NativePackageItems:
+    []
